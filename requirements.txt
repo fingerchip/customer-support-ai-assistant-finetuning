@@ -1,0 +1,7 @@
+unsloth
+transformers==4.56.2
+trl==0.22.2
+datasets>=3.4.1,<4.4.0
+torch
+peft
+accelerate
