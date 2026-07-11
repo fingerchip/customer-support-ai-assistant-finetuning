@@ -5,9 +5,7 @@ pipeline_tag: text-generation
 tags:
 - base_model:adapter:unsloth/tinyllama-bnb-4bit
 - lora
-- sft
 - transformers
-- trl
 - unsloth
 ---
 
